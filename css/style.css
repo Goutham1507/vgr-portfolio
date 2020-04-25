@@ -255,7 +255,7 @@ figure {
         position: relative; }
         @media screen and (max-width: 400px) {
           #colorlib-hero .flexslider .slides li {
-            background-position: -414px 0px !important;
+            background-position: -180px 0px !important;
           }
         }
     #colorlib-hero .flexslider .flex-control-nav {

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vgr-portfolio/static/css/main.d1b05096.chunk.css",
+    "main.js": "/vgr-portfolio/static/js/main.6e7ff74c.chunk.js",
+    "main.js.map": "/vgr-portfolio/static/js/main.6e7ff74c.chunk.js.map",
+    "runtime-main.js": "/vgr-portfolio/static/js/runtime-main.88b8c0f4.js",
+    "runtime-main.js.map": "/vgr-portfolio/static/js/runtime-main.88b8c0f4.js.map",
+    "static/js/2.57418ca1.chunk.js": "/vgr-portfolio/static/js/2.57418ca1.chunk.js",
+    "static/js/2.57418ca1.chunk.js.map": "/vgr-portfolio/static/js/2.57418ca1.chunk.js.map",
+    "index.html": "/vgr-portfolio/index.html",
+    "precache-manifest.3da1b5c0bc1b69ef4d94977c7dbb22ec.js": "/vgr-portfolio/precache-manifest.3da1b5c0bc1b69ef4d94977c7dbb22ec.js",
+    "service-worker.js": "/vgr-portfolio/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/vgr-portfolio/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.57418ca1.chunk.js.LICENSE.txt": "/vgr-portfolio/static/js/2.57418ca1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/vgr-portfolio/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88b8c0f4.js",
+    "static/js/2.57418ca1.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.6e7ff74c.chunk.js"
+  ]
+}

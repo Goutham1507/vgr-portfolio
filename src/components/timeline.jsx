@@ -21,12 +21,12 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Software Engineer Intern at MathWorks <span>June 2019- Decemeber 2019</span></h2>
+                        <h2>Software Engineer Intern at Amazon <span>June 2019- Decemeber 2019</span></h2>
                         <ul><b>Software Engineer Intern</b>
-                           <li>Altered <b>MATLAB</b> test session bucketing algorithm, for optimal utilization of host machines</li>
-                           <li>Created visualization using <b>D3.js</b> to detect abnormalities in host allocations across different platforms</li>
-                           <li>Optimized SQL queries which resulted in performance improvement by 10%</li>
-                           <li>Transformed Perl web services into Java REST APIs with better code organization, optimization, and readability</li>
+                          <li>Modified multiple systems, each in a different language, to enable Secure Delivery to support the retail website customers in Germany to receive packages that were statistically shown would have resulted in a missing package</li>
+                          <li>Removed country specific code and made it more agonistic to enable new countries without code changes</li>
+                          <li>Refactored notifications to remove hard coded text and pull from a localization service to enable text changes without code deploys</li>
+                          <li>Used Native AWS services to create new rules to drive recommendations in Secure Delivery features that resulted in an annual savings </li>
                         </ul>
                       </div>
                     </div>
@@ -37,12 +37,28 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Software Engineer at Sapient <span>September 2016 - July 2018</span></h2>
+                        <h2>Software Engineer at Unisys <span>July 2016 - August 2018</span></h2>
                         <ul><b>Software Engineer</b>
-                           <li>Worked on developing an online book Store using <b>Spring MVC</b> and <b>Hibernate</b></li>
-                           <li>Developed personalized product suggestion for users using IBM WCS, thereby increasing sales by 6%</li>
-                           <li>Revamped <b>REST APIs</b> with third party services to make users more interactive and engaging</li>
-                           <li>Handled Data Migration which moved catalog data from remote server location and loads it into WCS system</li>
+                        <li>Developed an end to end application which interacts with hardware modules, which outruns the existing application by 3 times</li>
+                        <li>Coordinated with quality assurance and support teams to fix any application defects</li>
+                        <li>Utilized Spring boot for creating RESTful services for client and server interactions</li>
+                        <li>Experienced in employing test-driven development using JUnit and maintained 95% code coverage</li>
+                        </ul>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Software Engineer Intern at Unisys <span>January 2016 - July 2016</span></h2>
+                        <ul><b>Software Engineer Intern</b>
+                        <li>Designed a mobile responsive robust web application with an end goal of enabling customers to book, update or cancel appointments with the bank</li>
+                        <li>Implemented JavaScript client-side functions for custom validators</li>
+                        <li>Improved the user interface of existing web applications by reducing the number of clicks by 10%</li>
+                        <li>Enforced test-driven development in all the phases with 100% functional coverage</li>
                         </ul>
                       </div>
                     </div>

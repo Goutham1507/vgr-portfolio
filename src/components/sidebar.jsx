@@ -9,8 +9,8 @@ export default class Sidebar extends Component {
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
-              <h1 id="colorlib-logo"><a href="index.html">K.A Sai Swagath</a></h1>
-              <span className="email"><i className="icon-mail"></i> kalpatiananthakris.s@husky.neu.edu</span>
+              <h1 id="colorlib-logo"><a href="index.html">V.Goutham Reddy</a></h1>
+              <span className="email"><i className="icon-mail"></i>valagolam.g@husky.neu.edu</span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">

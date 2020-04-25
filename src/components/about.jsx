@@ -39,7 +39,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Software Development</h3>
-                    <p>Experienced in building full stack applications with microservice architecture having thorough knowledge in Java, Spring Boot, Mockito, ReactJS, Javascript,AWS services(Lambda,CodeDeploy,Cloudformation), Docker & Kubernetes. </p>
+                    <p>Experienced in building full stack applications with microservice architecture having thorough knowledge in Java, Spring Boot, Mockito, ReactJS, Javascript,AWS services(Lambda,CodeDeploy), Docker & Kubernetes. </p>
                 </div>
                 </div>
             </div>

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vgr-portfolio/static/css/main.8ab6f918.chunk.css",
-    "main.js": "/vgr-portfolio/static/js/main.b355d30e.chunk.js",
-    "main.js.map": "/vgr-portfolio/static/js/main.b355d30e.chunk.js.map",
+    "main.js": "/vgr-portfolio/static/js/main.5736df4a.chunk.js",
+    "main.js.map": "/vgr-portfolio/static/js/main.5736df4a.chunk.js.map",
     "runtime-main.js": "/vgr-portfolio/static/js/runtime-main.88b8c0f4.js",
     "runtime-main.js.map": "/vgr-portfolio/static/js/runtime-main.88b8c0f4.js.map",
     "static/js/2.80f99a5d.chunk.js": "/vgr-portfolio/static/js/2.80f99a5d.chunk.js",
     "static/js/2.80f99a5d.chunk.js.map": "/vgr-portfolio/static/js/2.80f99a5d.chunk.js.map",
     "index.html": "/vgr-portfolio/index.html",
-    "precache-manifest.8950b79b7de48082c1db39a67ae72d41.js": "/vgr-portfolio/precache-manifest.8950b79b7de48082c1db39a67ae72d41.js",
+    "precache-manifest.cd3d55bac24ece02b81e5980015c9b8c.js": "/vgr-portfolio/precache-manifest.cd3d55bac24ece02b81e5980015c9b8c.js",
     "service-worker.js": "/vgr-portfolio/service-worker.js",
     "static/css/main.8ab6f918.chunk.css.map": "/vgr-portfolio/static/css/main.8ab6f918.chunk.css.map",
     "static/js/2.80f99a5d.chunk.js.LICENSE.txt": "/vgr-portfolio/static/js/2.80f99a5d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.88b8c0f4.js",
     "static/js/2.80f99a5d.chunk.js",
     "static/css/main.8ab6f918.chunk.css",
-    "static/js/main.b355d30e.chunk.js"
+    "static/js/main.5736df4a.chunk.js"
   ]
 }

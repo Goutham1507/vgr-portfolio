@@ -13,9 +13,9 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>Hey there! I'am currently pursuing my Master's in Information Systems at Northeastern University. I live in Boston. I've 2.5 years of industry experience in Software Development. I'm currently looking for full-time opportunities in the areas of Data Engineering & Software Development.</p>
+                    <p>Hey there! I am an incoming software engineer at Amazon. I live in Boston. I've 3 years of industry experience in Software Development. I'm currently looking for full-time opportunities in the areas of Software Development.</p>
                     <p>I believe that “Life is too short to exhaust our precious time doing mundane tasks”. Automating manual tasks on a machine with no intelligence excites me. I love challenges that push me out of my comfort zone constantly and help me get a better understanding of the work I do.</p>
-                    <p>I love going out for trips and playing cricket. I'm a huge fan of M.S Dhoni.If you need anything from me, you know where to start :)</p>
+                    <p>I love going out for trips and playing badminton. If you need anything from me, you know where to start :)</p>
                     </div>
                 </div>
                 </div>
@@ -39,7 +39,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Software Development</h3>
-                    <p>Experienced in building full stack applications with microservice architecture having thorough knowledge in Java Spring, Spring Boot, D3.js, ReactJS, Javascript, Docker & Kubernetes. </p>
+                    <p>Experienced in building full stack applications with microservice architecture having thorough knowledge in Java, Spring Boot, Mockito, ReactJS, Javascript,AWS services(Lambda,CodeDeploy,Cloudformation), Docker & Kubernetes. </p>
                 </div>
                 </div>
             </div>

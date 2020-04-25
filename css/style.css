@@ -253,7 +253,7 @@ figure {
         min-height: 400px;
         background-position: 10px 0px !important;
         position: relative; }
-        @media screen and (max-width: 400px) {
+        @media screen and (max-width: 600px) {
           #colorlib-hero .flexslider .slides li {
             background-position: -180px 0px !important;
           }

@@ -343,7 +343,8 @@ figure {
             color: #000;
             border: 1px solid #000;
             /*background: transparent !important;*/
-            background-color: ghostwhite;}
+            background-color: ghostwhite;
+            font-weight: bold;}
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn:hover {
               background: transparent !important;
               border: 1px solid #000 !important; }
